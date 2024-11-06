@@ -2,7 +2,7 @@
 
 ## [Student Grade Map](https://github.com/byergs/Student-Grade-Map-Project)
 
-### Excel | SQL | Tableau
+### Excel | SQL | Python | Tableau
 
 Building administration wanted to explore new ways to quickly identify incoming freshman students who are likely to struggle. In addition to standardized test data and teacher recommendations, I wanted to visualize freshman student failures by address to look for patterns in where struggling students typically live.
  - Student Grade and address data was taken from the school's Student Information System (SIS) and exported to Excel
